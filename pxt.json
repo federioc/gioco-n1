@@ -1,5 +1,6 @@
 {
     "name": "gioco n1",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*"
